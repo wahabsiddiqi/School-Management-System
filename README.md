@@ -29,7 +29,7 @@ git clone https://github.com/wahabsiddiqi/School-Management-System.git
 cd School-Management-System
 
 # 2. Run the program
-python school_management.py
+python Smart_School_Management.py
 ```
 
 `school_data.json` is created automatically on the first run.
